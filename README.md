@@ -93,7 +93,6 @@ You can help to translate the bot using [Hosted Weblate](https://hosted.weblate.
 <a href="https://hosted.weblate.org/engage/rss-to-telegram-bot/"><img src="https://hosted.weblate.org/widgets/rss-to-telegram-bot/-/open-graph.png" width = "500" alt="" /></a>
 
 ## Using the public bot
-
 The [public bot](https://t.me/RSStT_Bot) comes with absolutely no warranty. I will try my best to maintain it, but I cannot guarantee that it will always work perfectly. Meanwhile, you should "fair use" the bot, avoid subscribing to too many RSS feeds.  
 If you use the [public bot](https://t.me/RSStT_Bot) in your Channel, consider mentioning the bot (or this project) in your channel description (or pinned message) to let more people know about it. That's not a compulsion.
 
@@ -104,3 +103,4 @@ Want to preview what the messages sent by RSStT look like? Here is a [list of ch
 ## License
 
 This project is licensed under the [AGPLv3 license](LICENSE). Closed-source distribution or bot-hosting are strictly prohibited. If you modify the code and distribute or host it, make sure any users who can use your bot can get the source code (by editing the repo URL in [`src/i18n/__init__.py`](src/i18n/__init__.py)).
+ok
